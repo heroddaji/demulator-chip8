@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Sep 26 21:08:12 KST 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=demulator_fat.jar
+manifest.mergeall=true
+manifest.mainclass=dai.emulator.chip8.C8Emulator
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

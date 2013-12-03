@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-7-oracle"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-oracle/jre/lib/jfxrt.jar"/>
+	<classpathentry kind="lib" path="/home/dai-network-lab/Dropbox/dev/emulation/demulator/resources/jogamp-all-platforms/jar/gluegen-rt.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/home/dai-network-lab/Dropbox/dev/emulation/demulator/resources/jogamp-all-platforms/lib/linux-i586"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/dai-network-lab/Dropbox/dev/emulation/demulator/resources/jogamp-all-platforms/jar/jogl-all.jar" sourcepath="/home/dai-network-lab/.m2/repository/org/jogamp/jogl/jogl-all/2.0.2/jogl-all-2.0.2-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/home/dai-network-lab/Dropbox/dev/emulation/demulator/resources/jogamp-all-platforms/lib/linux-i586"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
